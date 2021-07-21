@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+body{
+    font-size: "Roboto", sans-serif;
+    background: #E5E5E5;  
+    text-align: center;
+    padding-top: 60px;
+}
+.navigation{
+    margin-bottom: 20px;
+    color: rgb(19, 5, 5);
+    box-sizing: border-box;
+    
+}
+.navigation a{
+    color: blue;
+    text-decoration: none;
+}
+body a{
+    color: blue;
+    text-decoration: none;
+    text-decoration-color: white;
+}

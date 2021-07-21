@@ -1,1 +1,65 @@
-/* Your styles go here */
+    *{
+    box-sizing: border-box;
+    margin: 0;
+}
+body{
+    background:rgb(163, 161, 157);
+    font-size: "Roboto", sans-serif;
+    color: white;
+    align-content: space-between;
+    margin-bottom: 24px;
+}
+.form{
+    margin: -250 700px;
+    
+}
+.word{
+    margin: 120 300px; 
+    align-content: space-between;
+
+    
+}
+.get-in-touch{
+    margin-top: 27px;
+    text-align: center;
+    text-decoration: underline;
+    color: blue;
+}   
+.contact{
+    margin: 10 0px;
+    color: rgb(16, 56, 129);
+    font-size: 16px;
+}
+.form-butto a{
+    color: white;
+   
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+body a{
+    color: blue;
+    text-decoration: none;
+    text-decoration-color: white;
+}
+.navigation a{
+    color: blue;
+    text-decoration: none;
+   /* background: rgb(241, 241, 241);*/
+    align-items: center;
+
+}
+.navigation{
+    margin:10 500px;
+    border-width: 10px;
+    height: 18px;
+    max-width: 1200px;
+    color: black;
+    font-size: 15px;
+
+}
